@@ -411,7 +411,7 @@ ul.dropdown-menu>li>a:hover,
 
 .portfolio .btn-group .btn {
   border-radius: 0px !important;
-  padding-left: 0px;
+  /* padding-left: 0px; */
   font-weight: 700;
 }
 
