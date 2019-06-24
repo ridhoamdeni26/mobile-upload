@@ -121,7 +121,7 @@ h6,
 }
 
 .btn-main {
-  background: #f44336;
+  background: #89C342;
   color: #fff;
 }
 
@@ -136,7 +136,7 @@ h6,
 }
 
 .btn-black:hover {
-  background: #f44336;
+  background: #89C342;
   color: #fff;
 }
 
@@ -157,13 +157,13 @@ a {
 }
 
 a:hover {
-  color: #f44336;
+  color: #89C342;
   text-decoration: none;
   outline: none;
 }
 
 .bg-primary {
-  background: #f44336 !important;
+  background: #89C342 !important;
 }
 
 .bg-secondary {
@@ -175,7 +175,7 @@ a:hover {
 }
 
 .text-color {
-  color: #f44336;
+  color: #89C342;
 }
 
 .page-title h1 {
@@ -191,7 +191,7 @@ a:hover {
   width: 40px;
   height: 2px;
   margin-left: -25px;
-  background: #f44336;
+  background: #89C342;
 }
 
 @media (max-width: 575px) {
@@ -217,7 +217,7 @@ a:hover {
 }
 
 .banner .cd-headline {
-  font-size: 56px;
+  font-size: 40px;
   line-height: 70px;
 }
 
@@ -265,7 +265,7 @@ ul.dropdown-menu>li>a,
 
 ul.dropdown-menu>li>a:hover,
 .navbar ul ul ul.dropdown-menu li .nav-link:hover {
-  color: #f44336;
+  color: #89C342;
 }
 
 .dropdown-item:focus,
@@ -400,6 +400,7 @@ ul.dropdown-menu>li>a:hover,
 
 .portfolio {
   padding-bottom: 100px;
+  padding: 50px;
 }
 
 .portfolio .btn:focus,
@@ -416,7 +417,7 @@ ul.dropdown-menu>li>a:hover,
 }
 
 .portfolio .btn-group .btn:hover {
-  color: #f44336;
+  color: #89C342;
 }
 
 .portfolio .btn-group:not(:first-child)>.btn,
@@ -426,7 +427,7 @@ ul.dropdown-menu>li>a:hover,
 }
 
 .portfolio .btn.active {
-  color: #f44336;
+  color: #89C342;
 }
 
 .inner-box {
@@ -667,7 +668,7 @@ ul.dropdown-menu>li>a:hover,
 
 .form-control:focus {
   box-shadow: none;
-  border-color: #f44336;
+  border-color: #89C342;
 }
 
 textarea.form-control {
@@ -691,7 +692,7 @@ textarea.form-control {
   width: 40px;
   height: 2px;
   margin-left: -25px;
-  background: #f44336;
+  background: #89C342;
 }
 
 .letter-spacing {
@@ -722,7 +723,7 @@ textarea.form-control {
 }
 
 .post .post-content a:hover h4 {
-  color: #f44336;
+  color: #89C342;
 }
 
 .pagination {
@@ -740,12 +741,12 @@ textarea.form-control {
 }
 
 .pagination li a:hover {
-  background: #f44336;
+  background: #89C342;
   color: #fff;
 }
 
 .pagination li.active a {
-  background: #f44336;
+  background: #89C342;
   color: #fff;
 }
 
@@ -855,7 +856,7 @@ textarea.form-control {
 }
 
 .footer-widget a:hover {
-  color: #f44336;
+  color: #89C342;
 }
 
 /*# sourceMappingURL=maps/style.css.map */
